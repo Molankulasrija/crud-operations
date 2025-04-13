@@ -24,10 +24,4 @@ A simple and lightweight Node.js application that uses Express and MySQL to perf
 
 ---
 
-##  Project Structure
-cricketer-manager-api/
-├── server.js             # Main server file with all API routes
-├── package.json          # Project metadata and dependencies
-├── package-lock.json     # Exact dependency tree
-└── .gitignore            # Files/folders to ignore in Git
 
