@@ -4,19 +4,19 @@ A simple and lightweight Node.js application that uses Express and MySQL to perf
 
 ---
 
-## 📦 Features
+##  Features
 
-- 🚀 Set up a Node.js Express server.
-- 🗃️ Connect to a MySQL database.
-- 🧱 Create a table for storing cricketer details.
-- ➕ Insert new cricketer data.
-- 🔁 Update existing records.
-- ❌ Delete cricketer entries.
-- 🛠️ Auto-reload using Nodemon for ease of development.
+-  Set up a Node.js Express server.
+-  Connect to a MySQL database.
+-  Create a table for storing cricketer details.
+-  Insert new cricketer data.
+-  Update existing records.
+-  Delete cricketer entries.
+-  Auto-reload using Nodemon for ease of development.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Backend:** Node.js, Express.js
 - **Database:** MySQL
@@ -24,7 +24,7 @@ A simple and lightweight Node.js application that uses Express and MySQL to perf
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 cricketer-manager-api/
 ├── server.js             # Main server file with all API routes
 ├── package.json          # Project metadata and dependencies
